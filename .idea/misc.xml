@@ -3,26 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.3635" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3085" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/ic_email.xml" value="0.2985" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/ic_lock.xml" value="0.2985" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/ic_person.xml" value="0.2985" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/item_selector.xml" value="0.3635" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/round_bg.xml" value="0.2985" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/round_border.xml" value="0.3635" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/transparent_background.xml" value="0.2985" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/drawable/wave.xml" value="0.2985" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/activity_dang_nhap.xml" value="0.5" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/activity_dangky.xml" value="0.358695652173913" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/fragment_chat_bot.xml" value="0.3625" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/fragment_per.xml" value="0.3625" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/fragment_search.xml" value="0.3625" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/fragment_set.xml" value="0.3625" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/layout/layout_beginactivity.xml" value="0.358695652173913" />
-        <entry key="..\:/Learn/SApplication/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/drawable/ic_email_24.xml" value="0.3635" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/drawable/ic_lock_24.xml" value="0.3635" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/drawable/ic_wave.xml" value="0.3635" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/drawable/round_bg.xml" value="0.3635" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/drawable/spinner.xml" value="0.2425" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/activity_chi_tiet.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/activity_dang_ky.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/activity_dang_nhap.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/activity_dien_thoai.xml" value="0.17603850050658562" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/activity_gio_hang.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/activity_profileactivity.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/item_dienthoai.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/item_giohang.xml" value="0.3614583333333333" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/item_loading.xml" value="0.2246376811594203" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/item_sanpham.xml" value="0.3625" />
+        <entry key="..\:/Learn/DA2/app/src/main/res/layout/item_sp_moi.xml" value="0.3625" />
       </map>
     </option>
   </component>
